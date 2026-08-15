@@ -1,6 +1,6 @@
 cask "scriber" do
   version "0.9.0"
-  sha256 "899301aaea529e81d894d07942bcdb3ab481af94e8c37370d8ae6936f6e5a0a3"
+  sha256 "d7e01f918bf43827cd2cdaa0016b7f308535d14f335d1f34c3478ef8ccf5f97b"
 
   url "https://github.com/gafiegarcia/scriber/releases/download/v#{version}/Scriber-#{version}.dmg",
       verified: "github.com/gafiegarcia/scriber/"
