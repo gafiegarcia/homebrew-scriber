@@ -1,20 +1,14 @@
-# gafiegarcia/tap
+# gafiegarcia/scriber
 
-Homebrew casks for my apps.
+The Homebrew tap for [Scriber](https://github.com/gafiegarcia/scriber), a macOS dictation app that types transcribed speech into whatever you are already in.
 
 ## Install
 
 ```bash
-brew install --cask gafiegarcia/tap/scriber
+brew install --cask gafiegarcia/scriber/scriber
 ```
 
-That taps this repository and installs in one step; `brew tap` first is not needed.
-
-## Casks
-
-| Cask | Description |
-| --- | --- |
-| [scriber](Casks/scriber.rb) | Menu bar dictation app that types transcribed speech into any app. [Repository](https://github.com/gafiegarcia/scriber) |
+That taps this repository and installs in one step; `brew tap` first is not needed. Scriber needs Apple silicon and macOS 26 Tahoe or newer.
 
 ## Update and remove
 
