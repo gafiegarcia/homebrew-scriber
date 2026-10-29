@@ -1,6 +1,6 @@
 cask "scriber" do
-  version "0.9.6"
-  sha256 "a7de15716f080e7fa65ffbf5626a97ebea44a60ad6ebf2a23673d1950d4d767d"
+  version "0.9.7"
+  sha256 "916c3ce65244c395a4af144ab1739e0a40f05050c4cecd8fb1524b92a020a796"
 
   url "https://github.com/gafiegarcia/scriber/releases/download/v#{version}/Scriber-#{version}.dmg"
   name "Scriber"
